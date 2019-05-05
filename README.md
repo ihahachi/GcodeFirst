@@ -1,7 +1,6 @@
 ## About GcodeFirst
 
-it is tool for generator code for Microsoft Entity Framework to support repository, unit of work patterns, multiple database.
-
+the GcodeFirst is tool for generator code developed by CSharp for Microsoft Entity Framework to support repository, unit of work patterns, multiple database.
 
 ## Why the UnitOfWork and Repository pattern?
 
@@ -176,7 +175,17 @@ unitOfWork.AuthorRepository.Remove(author);
 // Ops i don't want to do this
 unitOfWork.RejectChanges(); // Reject all changes
 ```
+## Screenshots
 
+<a href="https://imgur.com/KQSMGpz"><img src="https://i.imgur.com/KQSMGpz.jpg" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/HrgyBVB"><img src="https://i.imgur.com/HrgyBVB.jpg" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/WQtRLpf"><img src="https://i.imgur.com/WQtRLpf.jpg" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/czrmpHr"><img src="https://i.imgur.com/czrmpHr.jpg" title="source: imgur.com" /></a>
+
+<a href="https://imgur.com/knqisQe"><img src="https://i.imgur.com/knqisQe.jpg" title="source: imgur.com" /></a>
 
 ## License
 
