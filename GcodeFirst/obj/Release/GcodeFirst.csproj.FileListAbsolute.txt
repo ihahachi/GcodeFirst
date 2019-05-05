@@ -1,0 +1,9 @@
+C:\Users\IHA\documents\visual studio 2015\Projects\GcodeFirst\GcodeFirst\bin\Release\GcodeFirst.exe.config
+C:\Users\IHA\documents\visual studio 2015\Projects\GcodeFirst\GcodeFirst\bin\Release\GcodeFirst.exe
+C:\Users\IHA\documents\visual studio 2015\Projects\GcodeFirst\GcodeFirst\bin\Release\GcodeFirst.pdb
+C:\Users\IHA\documents\visual studio 2015\Projects\GcodeFirst\GcodeFirst\obj\Release\GcodeFirst.Form1.resources
+C:\Users\IHA\documents\visual studio 2015\Projects\GcodeFirst\GcodeFirst\obj\Release\GcodeFirst.Properties.Resources.resources
+C:\Users\IHA\documents\visual studio 2015\Projects\GcodeFirst\GcodeFirst\obj\Release\GcodeFirst.csproj.GenerateResource.Cache
+C:\Users\IHA\documents\visual studio 2015\Projects\GcodeFirst\GcodeFirst\obj\Release\GcodeFirst.exe
+C:\Users\IHA\documents\visual studio 2015\Projects\GcodeFirst\GcodeFirst\obj\Release\GcodeFirst.pdb
+C:\Users\IHA\documents\visual studio 2015\Projects\GcodeFirst\GcodeFirst\obj\Release\GcodeFirst.csprojResolveAssemblyReference.cache
